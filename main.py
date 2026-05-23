@@ -1,2 +1,3 @@
-print("Hello, World!")
-print("Welcome to NahmClass!")
+name = input("Name: ")
+print(f"Hello, {name}!")
+print("Welcome to math class!")
