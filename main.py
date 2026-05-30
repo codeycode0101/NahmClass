@@ -1,3 +1,4 @@
-name = input("Name: ")
+name = input("Name: ").title()
 print(f"Hello, {name}!")
 print("Welcome to math class!")
+print("AAAAAAAAAAAAAAAAAAAAAA")
