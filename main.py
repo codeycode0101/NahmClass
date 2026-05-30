@@ -5,3 +5,4 @@ if a.isdigit():
 else:
     print("That's not a valid number.")
     change = True
+    # Leave this for next class
