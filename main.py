@@ -1,9 +1,6 @@
-name = input("Name: ").title()
-print(f"Hello, {name}!")
-print("Welcome to math class!")
-print("AAAAAAAAAAAAAAAAAAAAAA")
-print("BBBBBBBBBBBBBBBBBBBBBB")
-print("CCCCCCCCCCCCCCCCCCCCCC")
-print("edit")
-if name == "Alice":
-    print("Welcome back, Alice!")
+print("Hello, World!")
+a = input("Enter a number: ")
+if a.isdigit():
+    print(f"You entered the number: {a}")
+else:
+    print("That's not a valid number.")
